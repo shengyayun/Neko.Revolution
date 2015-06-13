@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Level-A>
+    <!--运行时不建议修改-->
+    <setting key="NekoName" value="试作型" />
+    <setting key="QQ" value="QQ号" />
+    <setting key="Pwd" value="密码" />
+  </Level-A>
+  <Level-B>
+    <!--运行时可以修改，但不建议删除与添加-->
+    <setting key="MasterRate" value="0.30" />
+    <setting key="FriendRate" value="0.20" />
+    <setting key="CustomRate" value="0.10" />
+  </Level-B>
+  <Level-C>
+    <!--无限制-->
+    <String>
+      <setting key="FormatError" value="格式错误" />
+      <setting key="LexiconExistsError" value="请不要重复教学哦~" />
+      <setting key="MeetAllError" value="如果只有通配符的话将会匹配全部语句，教学失败" />
+      <setting key="Success" value="学会了！" />
+      <setting key="Require" value="听不懂，可以教我吗$(r)教学详情可以回复'$(name) 帮助'来查看" />
+      <setting key="NoThanks" value="猫妈妈说,不能随便听陌生人的话！$(r)教学需要Master权限" />
+    </String>
+    <Scheme>
+      <setting key="08:00" value="喵帕斯~！" />
+    </Scheme>
+  </Level-C>
+</Document>

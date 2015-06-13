@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="sq_langdaren" Class="DatabaseContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=mssql.sql87.cdncenter.net;Initial Catalog=sq_langdaren;Persist Security Info=True;User ID=sq_langdaren" SettingsObjectName="Library.Properties.Settings" SettingsPropertyName="sq_langdarenConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Lexicon" Member="Lexicon">
+    <Type Name="Lexicon">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="LxKey" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="LxValue" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="LxType" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="Time" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
