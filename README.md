@@ -5,7 +5,9 @@
 请配置Neko.Revolution\Library\app.config里的连接字符串
 
 Client为winform（windows本地运行AI）
+
 Service为web（web运行AI，由于IIS自动回收机制，很容易导致掉线）
 
 SmartQQ登陆的参数经常变动，所以无法保证可以正常运行。
+
 仅供学习。
