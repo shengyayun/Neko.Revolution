@@ -1,9 +1,11 @@
 # Neko.Revolution
-»ùÓÚSmartQQ,Í¨¹ýÐÄÌø°üÊµÏÖÎÈ¶¨ÔÚÏß²¢»ñÈ¡×îÐÂÏûÏ¢£¬×ÔÖÆÖÇÄÜÄ£¿éÊµÏÖÑ§Ï°¡¢¹ÜÀí ,¶àÖÖËã·¨Óë²ßÂÔÊµÏÖ´Ê¿âÆ¥Åä¡£
-Êý¾Ý½á¹¹Çë²ÎÕÕNeko.Revolution\Library\Entity\Database.dbml
-ÇëÅäÖÃNeko.Revolution\Library\app.configÀïµÄÁ¬½Ó×Ö·û´®
-ClientÎªwinform£¨windows±¾µØÔËÐÐAI£©
-ServiceÎªweb£¨webÔËÐÐAI£¬ÓÉÓÚIIS×Ô¶¯»ØÊÕ»úÖÆ£¬ºÜÈÝÒ×µ¼ÖÂµôÏß£©
+åŸºäºŽSmartQQ,é€šè¿‡å¿ƒè·³åŒ…å®žçŽ°ç¨³å®šåœ¨çº¿å¹¶èŽ·å–æœ€æ–°æ¶ˆæ¯ï¼Œè‡ªåˆ¶æ™ºèƒ½æ¨¡å—å®žçŽ°å­¦ä¹ ã€ç®¡ç† ,å¤šç§ç®—æ³•ä¸Žç­–ç•¥å®žçŽ°è¯åº“åŒ¹é…ã€‚
 
-SmartQQµÇÂ½µÄ²ÎÊý¾­³£±ä¶¯£¬ËùÒÔÎÞ·¨±£Ö¤¿ÉÒÔÕý³£ÔËÐÐ¡£
-½ö¹©Ñ§Ï°¡£
+æ•°æ®ç»“æž„è¯·å‚ç…§Neko.Revolution\Library\Entity\Database.dbml
+è¯·é…ç½®Neko.Revolution\Library\app.configé‡Œçš„è¿žæŽ¥å­—ç¬¦ä¸²
+
+Clientä¸ºwinformï¼ˆwindowsæœ¬åœ°è¿è¡ŒAIï¼‰
+Serviceä¸ºwebï¼ˆwebè¿è¡ŒAIï¼Œç”±äºŽIISè‡ªåŠ¨å›žæ”¶æœºåˆ¶ï¼Œå¾ˆå®¹æ˜“å¯¼è‡´æŽ‰çº¿ï¼‰
+
+SmartQQç™»é™†çš„å‚æ•°ç»å¸¸å˜åŠ¨ï¼Œæ‰€ä»¥æ— æ³•ä¿è¯å¯ä»¥æ­£å¸¸è¿è¡Œã€‚
+ä»…ä¾›å­¦ä¹ ã€‚
