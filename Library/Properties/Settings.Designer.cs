@@ -26,7 +26,7 @@ namespace Library.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("“连接字符串”")]
+        [global::System.Configuration.DefaultSettingValueAttribute("连接字符串")]
         public string sq_langdarenConnectionString {
             get {
                 return ((string)(this["sq_langdarenConnectionString"]));
